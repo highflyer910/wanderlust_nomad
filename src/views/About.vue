@@ -6,14 +6,12 @@ export default {
             destinations: sourceData.destinations
         }
     }
-    
 }
 </script>
 
-
-
 <template>
-    <div class="home">
+    <div class="about">
+        <div class="fade-nested">
         <h1>All Destinations</h1>
         <div class="destinations">
         <router-link v-for="destination in destinations"
@@ -23,8 +21,10 @@ export default {
         <h2>{{destination.name}}</h2>
         <img :src="`/images/${destination.image}`" :alt="destination.name">    
         </router-link>
-
+        </div>
         </div>
     </div>
 </template>
+
+
 

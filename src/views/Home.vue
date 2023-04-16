@@ -1,8 +1,5 @@
-
-
-
 <template>
-    <div class="home">
+    <div class="home fade-nested">
         
     </div>
 </template>

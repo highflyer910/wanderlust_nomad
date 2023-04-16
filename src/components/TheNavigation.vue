@@ -66,13 +66,8 @@
             <li><router-link to="/">Home</router-link></li>
             <li><router-link to="/about">My Destinations</router-link></li>
         </ul>
-        
-        
-        
     </div>
-    <div class="container">
-        <router-view></router-view>
-    </div>
+    
 </template>
 
 <style lang="css">
