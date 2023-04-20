@@ -93,6 +93,7 @@ a {
   align-items: center;
 }
 .destination-details img {
+  width: 450px;
   border-radius: 4px;
   border: 3px solid white;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
@@ -180,20 +181,6 @@ a {
   justify-content: flex-start;
   margin-bottom: 15px;
   
-}
-/* Form */
-.form{
-  display:flex;
-  flex-direction: column;
-  max-width:400px;
-  margin: 0 auto;
-}
-
-.input{
-  border: 1px solid gray;
-  padding: 10px;
-  margin-bottom:20px;
-  border-radius:5px;
 }
 
 .btn{
