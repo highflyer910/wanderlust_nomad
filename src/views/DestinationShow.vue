@@ -29,7 +29,7 @@
             </div>
         </section>
         <section class="experiences">
-            <h2>Top Experiences in {{ destination.name }}</h2>
+            <h2>Top places to visit in {{ destination.name }}</h2>
             <div class="cards">
                 <router-link
                     v-for="experience in destination.experiences"
