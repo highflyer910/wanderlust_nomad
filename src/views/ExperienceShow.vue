@@ -36,6 +36,7 @@ export default {
 @media (max-width: 768px) {
     .experience-show{
         display: block;
+        text-align: center;
     }
 
     h2{
