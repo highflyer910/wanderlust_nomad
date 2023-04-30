@@ -26,5 +26,13 @@ export default {
     </div>
 </template>
 
+<style scoped>
+    @media (max-width: 768px) {
+        .about h1, h2{
+            text-align: center;
+          }
+    }
+</style>
+
 
 

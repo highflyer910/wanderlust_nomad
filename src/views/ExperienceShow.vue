@@ -24,10 +24,27 @@ export default {
 
 <template>
     <section>
-        <h1>{{experience.name}}</h1>
+        <h2>{{experience.name}}</h2>
         <div class="experience-show fade-nested">
             <img :src="`/images/${experience.image}`" :alt="experience.name">
             <p>{{experience.description}}</p>
         </div>
     </section>
 </template>
+
+<style scoped>
+@media (max-width: 768px) {
+    .experience-show{
+        display: block;
+    }
+
+    h2{
+        text-align: center;
+        margin-block: 40px;
+    }
+    .experiences img{
+        width: 100%;
+        margin: 0 auto 40px;
+    }
+}
+</style>

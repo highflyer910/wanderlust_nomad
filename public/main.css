@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@100;400&display=swap');
+
 *,
 *:before,
 *:after {
@@ -7,17 +10,17 @@ body {
   padding: 0;
   margin: 0;
   margin-top: 150px;
-  background: #eee;
+  background: #dee1d7;
 }
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Overpass', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
+  color: #2f3f70;
 }
 a,
 a:visited {
-  color: #2c3e50;
+  color: #404c71;
 }
 .container {
   margin: 50px auto;
@@ -26,23 +29,45 @@ a:visited {
 
 h1, h2{
   text-align: left;
+  font-family: 'Grandstander', cursive;
+  font-size: 1.5em;
 }
 
 h1{
+  font-size: 2.5rem;
   margin-block-start: 100px;
+  line-height: 1.1;
 }
 
 /* About */
 .about img {
-  
   max-width: 230px;
-  border: 3px solid #eee;
+  margin-inline: 2px;
   border-radius: 14px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+  transition: all 0.2s ease;
 }
+
+.about img:hover{
+  opacity: 0.8;
+}
+
+
 .about .destinations {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+}
+
+@media (max-width: 768px) {
+  .about .destinations {
+      grid-template-columns: repeat(1, 1fr);
+  }
+
+  .destinations img{
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+  }
 }
 
 /* Navigation */
@@ -56,9 +81,9 @@ h1{
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  color: #fff;
-  background: #2c3e50;
-  border-bottom: 5px solid #4e6c71;
+  color: #dee1d7;;
+  background: #2f3f70;
+  border-bottom: 5px solid #f96e8a;
   z-index: 2;
 }
 
@@ -76,7 +101,7 @@ h1{
 }
 
 .nav-links a {
-  color: #f0f0f0;
+  color: #dee1d7;;
   transition: 0.2 ease color;
 }
 
@@ -97,20 +122,33 @@ a {
   align-items: center;
 }
 .destination-details img {
-  width: 450px;
+  width: 100%;
+  max-width: 450px;
   border-radius: 6px;
-  border: 3px solid white;
+  border: 3px solid #f96e8a;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
 }
 
 /*Experiences*/
 .experiences {
-  padding-top: 30px;
-  padding-bottom: 60px;
+  margin-bottom: 60px;
   margin-top: 30px;
-  border-top: 1px solid #d4d4d4;
+  border-top: 1px solid #dee1d7;;
   box-shadow: 0px -1px #fbfbfb;
 }
+
+.experiences .cards {
+  display: flex;
+  gap: 20px;
+  text-align: center;
+}
+.experiences img {
+  width: 100%;
+  max-width: 300px;
+  object-fit: cover;
+  display: block;
+}
+
 .experience-show{
   display: flex;
   text-align: left;
@@ -122,59 +160,12 @@ a {
   box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
 }
 
-.experiences .cards {
-  display: flex;
-  gap: 20px;
-  text-align: center;
-}
-.experiences img {
-  width: 225px;
-  object-fit: cover;
-  display: block;
-}
 .card .card__text {
-  background: #2c3e50;
-  color: white;
+  background: #2f3f70;
+  color: #dee1d7;;
   display: block;
-  border-top: 2px solid #4e6c71;
+  border-top: 2px solid #f96e8a;
   padding: 10px;
-}
-
-.experience-details img {
-  float: left;
-  margin: 10px;
-}
-
-/*Modal Overlay*/
-.modal-overlay:before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.7);
-  z-index: 3;
-}
-.modal-overlay-content {
-  border-radius: 3px;
-  position: fixed;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 3;
-  min-width: 300px;
-  max-width: 800px;
-  background: white;
-  padding: 15px;
-  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
-}
-.close {
-  position: absolute;
-  top: 0px;
-  right: 10px;
-  padding: 10px;
-  font-size: 1.4rem;
 }
 
 .go-back {
@@ -185,8 +176,8 @@ a {
 }
 
 .btn{
-  background-color:#2c3e50;
-  color: white;
+  background-color:#2f3f70;
+  color: #dee1d7;
   padding: 10px;
   border-radius: 5px;
   border:none;

@@ -45,3 +45,29 @@
         </section>
     </div>
 </template>
+
+<style scoped>
+@media (max-width: 768px) {
+    .destination-details {
+      margin-top: 50px;
+      margin-bottom: 30px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      
+    }
+    .destination-details h1 {
+        margin-bottom: 20px;
+    }
+    .experiences h2 {
+        text-align: center;
+    }
+    .experiences .cards {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;   
+        text-align: center;
+    }
+}
+</style>
