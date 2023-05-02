@@ -16,15 +16,7 @@
 
 p{
   font-size: 1em;
-}
-
-a {
-  font-weight: 500;
-  color: #33337C;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #444484;
+  white-space: break-spaces;
 }
 
 a {

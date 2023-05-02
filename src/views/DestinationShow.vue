@@ -27,9 +27,12 @@
                 <img :src="`/images/${destination.image}`" :alt="destination.name">
                 <p>{{ destination.description }}</p>
             </div>
+            <div class="destination-url">
+                <a :href="`${destination.url}`" target="_blank">More info</a>
+            </div>
         </section>
         <section class="experiences">
-            <h2>Top places to visit in {{ destination.name }}</h2>
+            <h2>Places I want to visit in {{ destination.name }}</h2>
             <div class="cards">
                 <router-link
                     v-for="experience in destination.experiences"

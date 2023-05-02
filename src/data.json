@@ -1,57 +1,20 @@
 {
   "destinations": [
     {
-      "name": "Italy",
-      "slug": "italy",
-      "image": "italy.jpg",
-      "id": 1,
+      "name": "Bolivia",
+      "slug": "bolivia",
+      "image": "bolivia.jpg",
+      "url": "https://www.lonelyplanet.com/bolivia",
+      "id": 13,
       "description":
-        "all about Italy, suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis.",
+        "Bolivia is a country in South America that offers a diverse array of experiences. Here are some of the must-visit places: \n1.Salar de Uyuni: The largest salt flat in the world and one of the most breathtaking landscapes in Bolivia. \n2. La Paz: Bolivia's capital city is perched high in the Andes mountains and boasts a vibrant culture and a fascinating history. \n3. Lake Titicaca: This vast lake is the highest navigable lake in the world and straddles the border between Bolivia and Peru. \n4. Tiwanaku: One of the most important archaeological sites in South America. It was once a thriving center of pre-Columbian civilization. \n5. Madidi National Park: This vast wilderness area is home to a stunning array of flora and fauna.",
       "experiences": [
         {
-          "name": "Florence",
-          "slug": "florence",
-          "image": "florence.jpg",
+          "name": "Salar De Uyuni",
+          "slug": "salar-de-uyuni",
+          "image": "salar_uyuni.jpg",
           "description":
-            "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
-        },
-        {
-          "name": "Alberobello",
-          "slug": "alberobello",
-          "image": "alberobello.jpg",
-          "description":
-            "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
-        },
-        {
-          "name": "Genoa",
-          "slug": "genoa",
-          "image": "genoa.jpg",
-          "description":
-            "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
-        }
-      ]
-    },
-    {
-      "name": "Portugal",
-      "slug": "portugal",
-      "image": "portugal.jpg",
-      "id": 2,
-      "description":
-        "all about portugal. Nam fermentum, leo ac lobortis tincidunt, justo felis semper nisi, sed facilisis quam ante a justo. Nam pulvinar nibh nec mi vestibulum cursus quis eget orci. Aenean faucibus faucibus ex, a imperdiet nibh luctus faucibus. Mauris porttitor, velit ac eleifend mattis, sem justo accumsan odio, ut mattis nulla nulla eu nibh. Cras justo risus, sollicitudin eget nulla a, consequat convallis tortor. Fusce eget neque metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla facilisi. Sed aliquam nunc id lectus sagittis, ac elementum eros egestas. Aliquam sed tempor dui.",
-      "experiences": [
-        {
-          "name": "Lisbon",
-          "slug": "lisbon",
-          "image": "lisbon.jpg",
-          "description":
-            "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
-        },
-        {
-          "name": "Madeira Island",
-          "slug": "madeira",
-          "image": "madeira.jpg",
-          "description":
-            "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+            "One of the places that has always captivated my imagination is the Salar de Uyuni. The thought of standing on the largest salt flat in the world, surrounded by an otherworldly landscape of pure white and clear blue skies, is simply breathtaking. \nThe best time to visit Salar de Uyuni is during the dry season, which runs from May to October. During this time, the salt flat is at its driest, making it easier to traverse and providing even more spectacular views. In addition, the dry season also coincides with the breeding season of the pink flamingos that inhabit the area, adding an extra touch of beauty to an already stunning landscape."
         }
       ]
     },
@@ -59,50 +22,185 @@
       "name": "Croatia",
       "slug": "croatia",
       "image": "croatia.jpg",
+      "url": "https://www.lonelyplanet.com/croatia",
       "id": 3,
       "description":
-        "all about hawaii. Etiam iaculis, ex in semper fringilla, lorem augue maximus lorem, in aliquet ex massa non enim. Maecenas pharetra orci eu semper pharetra. Suspendisse vel elit semper, fringilla metus ac, pulvinar justo. Vestibulum nibh lacus, pellentesque non arcu vel, efficitur eleifend lorem. Duis ultrices bibendum orci, nec laoreet elit. In vulputate massa vel massa cursus gravida. Aliquam sed lacus pulvinar, imperdiet risus at, lacinia dolor. Maecenas pellentesque arcu mattis iaculis efficitur. Maecenas quis sem pulvinar, sodales neque eget, efficitur odio.",
+        "This country is a treasure trove of breathtaking architecture, and rich cultural heritage. Here are some of the must visit places there: \n1.Dubrovnik - This coastal city is a UNESCO World Heritage Site. With its impressive walls, and picturesque streets, Dubrovnik is a true gem of the Adriatic. \n2. Hvar - This stunning island is one of the most popular tourist destinations in Croatia.With its gorgeous beaches, and vibrant nightlife, Hvar is the perfect place to relax. \n3. Diocletian's Palace is located in the heart of Split. This impressive structure was built in the 4th century as a retirement home for the Roman Emperor Diocletian, and today it serves as a living museum of Croatian history. \n4. Zagreb - Croatia's capital city is a vibrant and colorful metropolis, brimming with culture and charm.",
       "experiences": [
         {
           "name": "Dubrovnik",
           "slug": "dubrovnik",
           "image": "dubrovnik.jpg",
           "description":
-            "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+            "As a person with a deep love for history and pop culture, visiting Dubrovnik has been on my bucket list for years. \nSince watching Game of Thrones, I've been captivated by the beauty of this city and its role as the backdrop for King's Landing. \nAside from its GoT connections, Dubrovnik is also home to several historical landmarks. The Rector's Palace, which dates back to the 15th century, now serves as a museum that showcases Dubrovnik's heritage. The Franciscan Monastery, with its Gothic cloister and Baroque church, is another must-visit destination for anyone interested in architecture and art. \nA trip to Lokrum Island is a must-do. This uninhabited island is just a short ferry ride away from the city and boasts beautiful botanical gardens, and a fortress that was used as a filming location for Game of Thrones. \nI can't wait to explore all this city has to offer and immerse myself in its unique blend of old-world charm and modern-day excitement."
         }
       ]
     },
     {
-      "name": "USA",
-      "slug": "usa",
-      "image": "usa.jpg",
-      "id": 4,
+      "name": "Czechia",
+      "slug": "czech-republic",
+      "image": "czechia.jpg",
+      "url": "https://www.lonelyplanet.com/czech-republic",
+      "id": 14,
       "description":
-        "all about jamaica. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis.",
+        "This stunning country always was on my bucket list. \nPrague, the capital city, is a must-visit destination. It's known for its stunning Old Town, the Charles Bridge, and the Prague Castle. \nIf you're a fan of beer, you simply cannot miss the city of Pilsen, where Pilsner beer was first brewed. \nAnother fantastic city to visit is Cesky Krumlov. This picturesque town is located in the southern part of the country and is famous for its well-preserved medieval old town, complete with charming buildings, and a stunning castle. \nLast but not least, Karlovy Vary, a spa town in western Bohemia, is also worth a visit. Famous for its hot springs, this town has been a popular destination for centuries. It's worth to try the local mineral water and visit some of the beautiful Art Nouveau buildings.",
       "experiences": [
         {
-          "name": "Kennedy Space Center",
-          "slug": "kennedy-space-center",
-          "image": "space_center.jpg",
+          "name": "Prague",
+          "slug": "prague",
+          "image": "prague.jpg",
+          "description":
+            "Prague is a city that simply oozes history and culture from every corner. As a history and art lover, there are several places in Prague that I cannot wait to visit. \nFirst and foremost, the Prague Castle is a must-see. This massive castle complex is the largest ancient castle in the world, and it has been home to Czech kings, emperors, and presidents throughout history. Within the castle complex, there is St. Vitus Cathedral, a stunning Gothic cathedral that houses the tombs of many Bohemian kings and Holy Roman emperors. \nAnother great place to visit is the Old Town Square. This picturesque square is surrounded by colorful buildings and is home to the famous Astronomical Clock, which dates back to the 15th century. The square is also home to the Church of Our Lady before Tyn, a stunning Gothic church that dominates the skyline. \nAs a person who is interested in art, the National Gallery in Prague is a must-visit destination. This gallery houses an extensive collection of Czech and international art, including works by famous artists such as Picasso, Klimt, and Monet. \nFinally, the Jewish Quarter is a fascinating place to explore. This neighborhood is home to several synagogues, including the Old-New Synagogue, which is the oldest active synagogue in Europe. You can also visit the Jewish Cemetery, which is the final resting place of many notable Jewish figures. \nOverall, Prague is a city that is rich in history and culture, and as a traveler, I cannot wait to explore all that it has to offer."
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "slug": "italy",
+      "image": "italy.jpg",
+      "url": "https://www.lonelyplanet.com/italy",
+      "id": 1,
+      "description":
+        "all about Italy, suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis.",
+      "experiences": [
+        {
+          "name": "Tuscany",
+          "slug": "florence",
+          "image": "florence.jpg",
+          "description":
+            "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        },
+        {
+          "name": "Apulia",
+          "slug": "alberobello",
+          "image": "alberobello.jpg",
+          "description":
+            "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        },
+        {
+          "name": "Liguria",
+          "slug": "genoa",
+          "image": "genoa.jpg",
+          "description":
+            "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+        },
+        {
+          "name": "Campania",
+          "slug": "genoa",
+          "image": "positano.jpg",
           "description":
             "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
         }
       ]
     },
     {
-      "name": "Tanzania",
-      "slug": "tanzania",
-      "image": "tanzania.jpg",
-      "id": 5,
+      "name": "Mauritius",
+      "slug": "mauritius",
+      "image": "mauritius.jpg",
+      "url": "https://www.lonelyplanet.com/mauritius",
+      "id": 9,
       "description":
-        "all about jamaica. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis.",
+        "Mauritius is a stunning island nation in the Indian Ocean. Some must-visit places in Mauritius are: \n1. Chamarel - a small village with a unique geological formation known as the Seven Colored Earths. These sand dunes display seven different colors, making for a truly mesmerizing sight. \n2. Black River Gorges National Park - a vast expanse of protected forest with several hiking trails and waterfalls, perfect for nature lovers. \n3. Le Morne Brabant - a UNESCO World Heritage site with a towering mountain that offers stunning panoramic views of the island. \n4. Île aux Cerfs - a small island off the east coast of Mauritius with crystal clear waters, white sandy beaches, and plenty of water sports activities to enjoy. ",
       "experiences": [
         {
-          "name": "Tower Isle",
-          "slug": "tower-isle",
-          "image": "tower-isle.jpg",
+          "name": "Le Morne Brabant",
+          "slug": "morne_brabant",
+          "image": "morne.jpg",
           "description":
-            "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
+          "Le Morne Brabant is a majestic mountain located on the southwestern tip of Mauritius. This UNESCO World Heritage site is a popular destination for hikers and nature lovers, offering breathtaking panoramic views of the island and its surrounding turquoise waters. \nLe Morne Brabant was once a refuge for escaped slaves in the 19th century. Today, it's a popular spot for tourists to hike to the summit and take in the stunning vistas. The trail can be challenging, but the reward at the top is worth it - a sense of accomplishment and awe-inspiring views of the island's coastline and green landscapes. \nAside from its natural beauty, Le Morne Brabant is also a symbol of resistance and freedom, representing the struggle of the slaves who sought refuge on its slopes. For those interested in history and culture, it's a significant and meaningful destination to visit while in Mauritius."
+        }
+      ]
+    },
+    {
+      "name": "Morocco",
+      "slug": "morocco",
+      "image": "morocco.jpg",
+      "url": "https://www.lonelyplanet.com/morocco",
+      "id": 7,
+      "description":
+        "Morocco is a magical country that will captivate you with its vibrant culture, delicious food, and stunning landscapes. From the bustling markets to the tranquil deserts, there's something for everyone in this North African gem. \n1. Marrakech: This city is a feast for the senses, with its vibrant souks, bustling Djemaa el Fna square, and stunning architecture. Be sure to visit the Bahia Palace and the Saadian Tombs for a glimpse into the country's rich history. \n2. Chefchaouen: This picturesque blue-washed town in the Rif Mountains is a photographer's dream. Wander the winding streets, shop for handicrafts, and take in the stunning mountain views. \n3. Fes: The ancient city of Fes is a UNESCO World Heritage Site, and for good reason. The medina is a maze of narrow streets and alleyways, with stunning architecture and beautiful mosques. \n4. Erg Chebbi: The Sahara desert is a must-visit when in Morocco, and Erg Chebbi is one of the most stunning dunes in the country. Take a camel ride, watch the sunset, and stay in a traditional Berber tent for an unforgettable experience. \n5. Essaouira: This coastal city is a great place to relax and unwind after a busy trip. Walk along the ramparts, watch the fishermen at the port, and soak up the laid-back vibe.",
+      "experiences": [
+        {
+          "name": "Chefchaouen",
+          "slug": "chefchaouen",
+          "image": "marakesh.jpg",
+          "description":
+          "Chefchaouen is a magical blue-washed town nestled in the Rif Mountains of northern Morocco. \nWhen visiting Chefchaouen, I want to explore the winding streets of the medina, where are countless shops selling traditional Moroccan goods. The main square, Plaza Uta el-Hammam, is a great place to relax, and the Kasbah Museum offers a glimpse into the town's rich history and culture. \nOne of the most popular activities in Chefchaouen is hiking in the surrounding mountains. There are numerous trails to choose from, ranging from easy walks to more challenging treks. It would be worth to visit the Ras El Maa waterfall, located just a short walk from the town center, for a refreshing dip in the cool mountain waters. \nFinally, no visit to Chefchaouen would be complete without taking in the town's stunning blue-washed buildings. Legend has it that the blue color was introduced by Jewish refugees who fled to the town in the 1930s, and it has since become an iconic part of Chefchaouen's charm. \nDefinitely Chefchaouen is a destination that should not be missed."
+        },
+        {
+          "name": "Marakech",
+          "slug": "marakech",
+          "image": "marakech.jpg",
+          "description":
+          "Marrakech is a vibrant city that can leave you spellbound with its stunning architecture, bustling markets, and vibrant culture. Known as the 'Red City' for its sandstone buildings, Marrakech is a must-visit destination when in Morocco. \nSome of the top sights to see in Marrakech: \n1. Djemaa el Fna: This bustling square is the heart of the city and a UNESCO World Heritage Site. Best time to visit it is in the evening to see the square come alive with musicians, snake charmers, and food vendors. \n2. Bahia Palace: This stunning palace was built in the 19th century and features beautiful gardens and intricate tilework. \n3. Saadian Tombs: These tombs date back to the 16th century and were rediscovered in the early 20th century. They feature beautiful decoration and are a must-visit for history buffs. \n4. Koutoubia Mosque: This beautiful mosque is one of the most iconic landmarks in Marrakech, with its tall minaret visible from all over the city. \n5. Majorelle Garden: This beautiful garden was created by French painter Jacques Majorelle in the 1920s and features exotic plants, vibrant colors, and beautiful water features. \n6. Souks: Marrakech is famous for its markets, or souks, which offer everything from spices to textiles to ceramics. Be prepared to haggle for the best price! \nNo trip to Marrakech would be complete without indulging in the city's delicious cuisine, which features spices, herbs, and influences from across the Middle East and North Africa. Don't miss out on dishes like tagine, couscous, and harira soup. \nIt's obvious Marrakech is a city that will leave you with lasting memories and a desire to return again and again."
+        }
+      ]
+    },
+    {
+      "name": "Netherlands",
+      "slug": "netherlands",
+      "image": "netherlands.jpg",
+      "url": "https://www.lonelyplanet.com/netherlands",
+      "id": 11,
+      "description":
+        "The Netherlands is known for its beautiful landscapes, rich history, and vibrant culture. Here are some must-visit places that you can't miss on your trip to the Netherlands: \n1. Amsterdam - The capital city of the Netherlands is famous for its picturesque canals, stunning architecture, and vibrant nightlife. It's necessary to visit the Anne Frank House, Rijksmuseum, and Van Gogh Museum while you're there. \n2. The Hague - This city on the coast is home to many historical landmarks. Here is the Mauritshuis museum, which houses some of the world's most famous works of art, including Vermeer's Girl with a Pearl Earring. \n3. Utrecht is well worth a visit for it's home to beautiful canals, picturesque streets, and a stunning cathedral. \n4. Kinderdijk - This UNESCO World Heritage Site is a collection of windmills dating back to the 18th century. \n5. Giethoorn - This picturesque village is often referred to as the 'Venice of the North' due to its many canals and bridges. \n6. Rotterdam - This modern city is home to some of the most innovative architecture in the world. Be sure to visit the Markthal, Erasmus Bridge, and Euromast tower while you're there.",
+      "experiences": [
+        {
+          "name": "Amsterdam",
+          "slug": "amsterdam",
+          "image": "amsterdam.jpg",
+          "description":
+          "One of the main reasons I want to visit Amsterdam is to explore its rich history. The city has a fascinating past, from its role as a major trading center in the 17th century to its experiences during World War II. I'm particularly interested in visiting the Anne Frank House and learning more about the young girl who kept a diary during the Nazi occupation. \nIn addition to its history, Amsterdam is also known for its vibrant art scene. I can't wait to visit the Rijksmuseum and see some of the world's most famous works of art, including Rembrandt's Night Watch. The Van Gogh Museum is also high on my list, as I'm a huge fan of the artist's unique style. \nThe Royal Palace - This stunning palace is located in the heart of Amsterdam and is open to the public for tours. Visitors can see the magnificent interior and learn more about the history of the Dutch monarchy. \nThe NEMO Science Museum - This interactive museum is great for kids and adults alike. It features hands-on exhibits and demonstrations on science and technology, as well as a rooftop terrace with a great view of the city. \nKeukenhof Gardens - This is the world's largest flower garden and is located just outside Amsterdam. It's only open for a few months each year (usually from mid-March to mid-May), so I'd love to plan my visit accordingly."
+        },
+        {
+          "name": "Giethoorn",
+          "slug": "giethoorn",
+          "image": "giethoorn.jpg",
+          "description":
+          "As a traveler, I would love to visit Giethoorn to explore its many canals and bridges, and to see the quaint thatched-roof houses that line the waterways. I would also love to rent a boat and navigate my way through the village, taking in the beautiful scenery and enjoying the peaceful atmosphere. \nOne of the things that makes Giethoorn so special is that it has no roads or cars, which makes it an incredibly tranquil and relaxing place to visit. Instead, visitors can explore the village on foot or by boat, and take in the beautiful views of the surrounding countryside. \nOverall, Giethoorn is a must-visit destination for anyone traveling to the Netherlands, and I can't wait to experience its charm and beauty firsthand."
+        }
+      ]
+    },
+    {
+      "name": "Peru",
+      "slug": "peru",
+      "image": "peru.jpg",
+      "url": "https://www.lonelyplanet.com/peru",
+      "id": 12,
+      "description":
+        " This South American country is a destination that should not be missed. This is a treasure trove of ancient ruins and museums. Some must-visit places in Peru: \n1. Machu Picchu - This iconic Incan city is one of the most famous tourist destinations in the world. The awe-inspiring ruins, located in the Andes Mountains offer a glimpse into the history of one of the most powerful civilizations in South America. \n2. Cusco - This charming city was once the capital of the Incan Empire and is now a UNESCO World Heritage Site. \n3. Arequipa - Known as the 'White City,' Arequipa is famous for its beautiful colonial buildings made of white volcanic rock. The city is also a gateway to the Colca Canyon, one of the deepest canyons in the world. \n4. Nazca Lines - These mysterious geoglyphs (located in the Nazca Desert) which can only be seen from the air, include animals, plants, and geometric shapes, and their purpose and origin remain a mystery. \n5. Lima - Peru's capital city's historic center, with its impressive colonial buildings, is a UNESCO World Heritage Site.",
+      "experiences": [
+        {
+          "name": "Machu Picchu",
+          "slug": "machu-picchu",
+          "image": "machupicchu.jpg",
+          "description":
+          "I was always fascinated by this iconic Incan city located high in the Andes Mountains of Peru. It was built in the 15th century and is now one of the most famous tourist destinations in the world. The site was abandoned by the Incas during the Spanish conquest and remained hidden from the world until it was rediscovered by American explorer Hiram Bingham in 1911. \nMachu Picchu is a marvel of engineering and architecture, with impressive stone structures and terraces built into the side of a mountain. The city was designed to be self-sufficient, with a sophisticated irrigation system that allowed the Incas to grow crops in the mountain's harsh terrain. The site is also home to numerous temples and shrines, including the Intihuatana, a unique stone structure used by the Incas to observe the movements of the sun. \nI am excited to learn more about the Inca civilization and its rich cultural heritage. Most of all, I look forward to experiencing the awe-inspiring beauty of this ancient city and the natural wonders that surround it."
+        }
+      ]
+    },
+    {
+      "name": "Portugal",
+      "slug": "portugal",
+      "image": "portugal.jpg",
+      "url": "https://www.lonelyplanet.com/portugal",
+      "id": 2,
+      "description":
+        "I am sure Portugal is a destination that should be on every traveler's bucket list. \n1. Lisbon: The capital city of Portugal is a fascinating blend of old-world charm and modern-day allure. The city's historic center is a maze of narrow streets and alleys lined with centuries-old buildings, churches, and museums. \n2. Porto: Located in the north of Portugal, Porto is famous for its port wine, colorful buildings, and charming streets. The city's historic center is a UNESCO World Heritage Site, and it's home to the iconic Dom Luis I Bridge, the Clerigos Tower, and the Sao Bento Station. \n3. Sintra: This fairy tale town is located just outside of Lisbon and is a must-visit destination for Game of Thrones fans:). Must-visit places are: the Palacio Nacional de Sintra, the Quinta da Regaleira, and the Moorish Castle. \n4. Coimbra: This historic city is home to one of the oldest and most prestigious universities in Europe, the University of Coimbra. Be sure to visit the Biblioteca Joanina, the Machado de Castro Museum, and the Convento de Santa Clara-a-Velha. \n5. Evora: This city in the Alentejo region of Portugal is a UNESCO World Heritage Site and is known for its rich cultural heritage. There you must to visit the Roman Temple, the Cathedral of Evora, and the Bones Chapel.",
+      "experiences": [
+        {
+          "name": "Lisbon",
+          "slug": "lisbon",
+          "image": "lisbon.jpg",
+          "description":
+          "Lisbon is a city that has always been on my bucket list. As a lover of art and architecture, I am excited to see the colorful tiles that adorn the buildings and the impressive structures that have stood the test of time. \nI have always wanted to listen to Portuguese fado music live in Lisbon. Fado is a genre of music that originated in Portugal and is known for its soulful and melancholic melodies. As I know the city is filled with fado houses that offer an intimate setting for listening to this beautiful music. \nBut Lisbon is not just about music, and architecture. It's a city with a rich history that is evident in its historic buildings and monuments. I'm looking forward to exploring the Belem Tower, the Jeronimos Monastery, and the National Museum of Ancient Art to learn more about Lisbon's fascinating past. \nI can't wait to immerse myself in the city's culture and traditions, listen to fado music, ride the famous trams, and discover the city's hidden gems."
+        },
+        {
+          "name": "Madeira Island",
+          "slug": "madeira",
+          "image": "madeira.jpg",
+          "description":
+            "Madeira is a stunning island located off the coast of Portugal, and it's a must-visit for travelers who love nature and breathtaking views. I started to research about this place after I watched a short video in Tik Tok:) Here are some spots to visit there: \n- Pico do Arieiro: This is the third-highest peak on the island, and it offers breathtaking views of the surrounding landscape. People can drive up to the peak or take a hiking trail to reach the top. \n- Levada Walks: The island is famous for its Levada walks, which are hiking trails that follow the water channels that distribute water from the mountainous areas to the farmland. These walks offer spectacular views of the island's forests, waterfalls, and cliffs. \n- Funchal: This charming city is the capital of Madeira Island and is known for its picturesque streets, colorful houses, and stunning views of the Atlantic Ocean. Be sure to visit the Mercado dos Lavradores, a famous market where you can find fresh fruits, vegetables, and fish. \n- Monte Palace Tropical Garden: This is a beautiful garden located in Funchal, and it features exotic plants, lakes, and sculptures. You can also visit the Monte Palace Museum, which houses an impressive collection of African, Indo-Portuguese, and Oriental art. \n- Cabo Girao: This is the second-highest sea cliff in the world, and it offers panoramic views of the Atlantic Ocean. You can walk on a glass-bottomed platform that extends over the cliff's edge and take in the stunning views."
         }
       ]
     },
@@ -110,6 +208,7 @@
       "name": "Poland",
       "slug": "poland",
       "image": "poland.jpg",
+      "url": "https://www.lonelyplanet.com/poland",
       "id": 6,
       "description":
         "all about jamaica. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis.",
@@ -124,44 +223,11 @@
       ]
     },
     {
-      "name": "Morocco",
-      "slug": "morocco",
-      "image": "morocco.jpg",
-      "id": 7,
-      "description":
-        "all about jamaica. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis.",
-      "experiences": [
-        {
-          "name": "Marakesh",
-          "slug": "marakesh",
-          "image": "marakesh.jpg",
-          "description":
-            "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
-        }
-      ]
-    },
-    {
       "name": "Scotland",
       "slug": "scotland",
       "image": "scotland.png",
+      "url": "https://www.lonelyplanet.com/scotland",
       "id": 8,
-      "description":
-        "all about jamaica. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis.",
-      "experiences": [
-        {
-          "name": "Tower Isle",
-          "slug": "tower-isle",
-          "image": "tower-isle.jpg",
-          "description":
-            "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
-        }
-      ]
-    },
-    {
-      "name": "Mauritius",
-      "slug": "mauritius",
-      "image": "mauritius.jpg",
-      "id": 9,
       "description":
         "all about jamaica. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis.",
       "experiences": [
@@ -178,6 +244,7 @@
       "name": "Spain",
       "slug": "spain",
       "image": "spain.jpg",
+      "url": "https://www.lonelyplanet.com/spain",
       "id": 10,
       "description":
         "all about jamaica. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis.",
@@ -192,68 +259,36 @@
       ]
     },
     {
-      "name": "Netherlands",
-      "slug": "netherlands",
-      "image": "netherlands.jpg",
-      "id": 11,
+      "name": "Tanzania",
+      "slug": "tanzania",
+      "image": "tanzania.jpg",
+      "url": "https://www.lonelyplanet.com/tanzania",
+      "id": 5,
       "description":
         "all about jamaica. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis.",
       "experiences": [
         {
-          "name": "Amsterdam",
-          "slug": "amsterdam",
-          "image": "amsterdam.jpg",
+          "name": "Tower Isle",
+          "slug": "tower-isle",
+          "image": "tower-isle.jpg",
           "description":
             "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
         }
       ]
     },
     {
-      "name": "Peru",
-      "slug": "peru",
-      "image": "peru.jpg",
-      "id": 12,
+      "name": "USA",
+      "slug": "usa",
+      "image": "usa.jpg",
+      "url": "https://www.lonelyplanet.com/usa",
+      "id": 4,
       "description":
         "all about jamaica. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis.",
       "experiences": [
         {
-          "name": "Machu Picchu",
-          "slug": "amsterdam",
-          "image": "",
-          "description":
-            "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
-        }
-      ]
-    },
-    {
-      "name": "Bolivia",
-      "slug": "bolivia",
-      "image": "bolivia.jpg",
-      "id": 13,
-      "description":
-        "all about jamaica. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis.",
-      "experiences": [
-        {
-          "name": "Salar De Uyuni",
-          "slug": "salar-de-uyuni",
-          "image": "salar_uyuni.jpg",
-          "description":
-            "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
-        }
-      ]
-    },
-    {
-      "name": "Czech Republic",
-      "slug": "czech-republic",
-      "image": "czechia.jpg",
-      "id": 14,
-      "description":
-        "all about jamaica. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis.",
-      "experiences": [
-        {
-          "name": "Prague",
-          "slug": "prague",
-          "image": "prague.jpg",
+          "name": "Kennedy Space Center",
+          "slug": "kennedy-space-center",
+          "image": "space_center.jpg",
           "description":
             "Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis. Suspendisse lobortis pharetra tempor. Cras eleifend ante sed arcu interdum, in bibendum enim ultricies. Integer rutrum quis risus at tempor. Maecenas facilisis, nisi vel pellentesque maximus, lectus felis malesuada purus, a pulvinar elit est quis turpis. Duis convallis purus quis finibus consequat. Pellentesque faucibus tincidunt augue non consequat. Donec fringilla at est sit amet blandit. Nunc at porttitor ligula. Fusce sed odio turpis."
         }
