@@ -31,6 +31,9 @@ export default {
         .about h1, h2{
             text-align: center;
           }
+        .about h2{
+            margin-block-end: 5px;
+        }  
     }
 </style>
 
