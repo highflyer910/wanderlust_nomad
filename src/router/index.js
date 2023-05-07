@@ -32,7 +32,7 @@ const routes = [
             component: ()=> import('@/views/ExperienceShow.vue'),
             props: route => ({...route.params, id: parseInt(route.params.id)})
         }
-      ]
+    ]
     },
     {
         path: '/:pathMatch(.*)*',
@@ -45,8 +45,8 @@ const router = createRouter({
     history: createWebHistory(),
     routes,
     scrollBehavior(to, from, savedPosition){
-       return savedPosition || new Promise (resolve => {
-           setTimeout(()=>resolve({top: 0, behavior: 'smooth'}),300)
+        return savedPosition || new Promise (resolve => {
+        setTimeout(()=>resolve({top: 0, behavior: 'smooth'}),300)
         })
     }
     //linkActiveClass: 'active'
