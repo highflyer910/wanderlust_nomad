@@ -32,7 +32,7 @@
             </div>
         </section>
         <section class="experiences">
-            <h2>Places I want to visit in {{ destination.name }}</h2>
+            <h2>Places I'm going to visit in {{ destination.name }}</h2>
             <div class="cards">
                 <router-link
                     v-for="experience in destination.experiences"
@@ -52,13 +52,12 @@
 <style scoped>
 @media (max-width: 768px) {
     .destination-details {
-      margin-top: 50px;
-      margin-bottom: 30px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      
+        margin-top: 50px;
+        margin-bottom: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
     }
     .destination-details h1 {
         margin-bottom: 20px;

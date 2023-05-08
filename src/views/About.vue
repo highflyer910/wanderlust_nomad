@@ -30,7 +30,7 @@ export default {
     @media (max-width: 768px) {
         .about h1, h2{
             text-align: center;
-          }
+        }
         .about h2{
             margin-block-end: 5px;
         }  

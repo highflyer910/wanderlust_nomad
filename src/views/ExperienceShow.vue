@@ -21,7 +21,6 @@ export default {
 </script>
 
 
-
 <template>
     <section>
         <h2>{{experience.name}}</h2>
