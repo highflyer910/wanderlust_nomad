@@ -4,11 +4,20 @@ Wanderlust Nomad is a web application built with Vue and Vite. It is a travel bl
 
 To run the application locally, you need to have Node.js and npm installed on your machine. 
 
-## Running the Application
+## Project setup
+```
+npm install
+```
 
-```npm install```
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-```npm run dev```
+### Compiles and minifies for production
+```
+npm run build
+```
 
 ## Recommended IDE Setup
 
