@@ -1,6 +1,9 @@
 # Wanderlust Nomad
 
-Wanderlust Nomad is a web application built with Vue and Vite. It is a travel blog and its main purpose is to showcase beautiful places and landmarks that I want to visit.
+Wanderlust Nomad is a web application built with Vue and Vite.
+It is a travel blog where users can explore various destinations and places to visit around the world. 
+The main purpose of the application is to showcase beautiful places and landmarks that I want to visit.😊🎒
+
 
 To run the application locally, you need to have Node.js and npm installed on your machine. 
 
