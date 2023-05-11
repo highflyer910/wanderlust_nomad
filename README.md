@@ -29,4 +29,4 @@ If you want to contribute to the project, please follow the guidelines in the [C
 
 ## License
 
-This project is licensed under the MIT License.
+MIT
