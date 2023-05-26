@@ -1,6 +1,6 @@
 <template>
     <div class="home">
-        <div class="fade-nested home_container">
+        <div class="fade home_container">
             <h1 class="main_title">Wanderlust Nomad</h1>
             <h2 class="main_subtitle">Welcome to my nomad journey!</h2>
             <p class="main_text">
