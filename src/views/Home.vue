@@ -18,6 +18,9 @@
             <img src="/nomad.svg" alt="Wanderlust Nomad">
         </div>
     </div>
+    <div class="footer">
+        <p>Made by <a href="https://github.com/highflyer910/wanderlust_nomad" target="_blank">Thea</a> &copy; 2023</p>
+    </div>
 </template>
 
 <style scoped>
@@ -42,6 +45,17 @@
 .home_container {
   flex-basis: 50%;
   padding: 20px;
+}
+
+.footer p{
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.footer  a{
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 768px) {

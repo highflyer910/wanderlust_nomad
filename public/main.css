@@ -23,7 +23,7 @@ a:visited {
   color: #404c71;
 }
 .container {
-  margin: 50px auto;
+  margin: 50px auto 0;
   max-width: 960px;
 }
 
@@ -81,12 +81,22 @@ h1{
   margin-top: 0;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   align-items: center;
   padding: 1rem;
   color: #dee1d7;;
   background: #2f3f70;
   border-bottom: 5px solid #f96e8a;
   z-index: 2;
+  animation: shadow 1s cubic-bezier(0.33, 1, 0.68, 1);
+  animation-timeline: scroll(root);
+}
+
+@keyframes shadow {
+  10%,
+  100% {
+    box-shadow: hsla(0 0% 0% / 0.3) 0 0.5rem 1rem;
+  }
 }
 
 .nav-links {

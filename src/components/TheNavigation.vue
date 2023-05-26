@@ -76,4 +76,40 @@
     max-width: 150px;
     margin-inline-start: 1.5rem;
 }
+
+@media screen and (max-width: 768px) {
+    .logo svg {
+        max-height: 40px;
+        max-width: 120px;
+        margin-inline-start: 1rem;
+    }
+
+    .nav-links {
+        justify-content: center;
+        margin-inline-end: 0.5rem;
+    }
+
+    .nav-links li {
+        margin-left: 0.5rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .logo svg {
+        max-height: 40px;
+        max-width: 100px;
+        margin-inline-start: 0.5rem;
+    }
+
+    #nav {
+        padding: 0.5rem;
+    }
+
+    .nav-links li {
+        margin-left: 0.25rem;
+    }
+}
+
+
+
 </style>
