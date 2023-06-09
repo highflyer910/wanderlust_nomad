@@ -157,7 +157,6 @@ a {
 
 .experiences .cards {
   display: flex;
-  gap: 20px;
   text-align: center;
 }
 .experiences img {
@@ -171,6 +170,8 @@ a {
   display: flex;
   text-align: left;
   gap: 30px;
+  display: flex;
+  flex-basis: 25%;
 }
 .card {
   border-radius: 4px;
