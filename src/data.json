@@ -89,6 +89,13 @@
           "Apulia (or Puglia in Italian) is a beautiful region located in southern Italy, known for its stunning beaches, historic towns, and delicious cuisine. Here are some must-see places and experiences to add: \n \n1. Alberobello: This small town is famous for its unique trulli houses, which are cone-shaped buildings made from local stone. Walking through the narrow streets of Alberobello feels like stepping back in time, and it's easy to see why the town is a UNESCO World Heritage Site. \n \n2. Lecce: Known as the 'Florence of the South', Lecce is a beautiful Baroque city that is home to stunning churches, palaces, and piazzas. Don't miss the Basilica di Santa Croce, which is known for its ornate façade. \n \n3. Castel del Monte: This medieval castle is one of the most iconic landmarks in Apulia. It was built by Emperor Frederick II in the 13th century, and it's famous for its unique octagonal shape and stunning location on a hilltop. \n \n4. Ostuni: Known as the 'White City', Ostuni is a beautiful hilltop town that is famous for its whitewashed buildings and narrow streets. The town offers stunning views of the surrounding countryside, and it's a great place to explore on foot. \n \n5. Polignano a Mare: This picturesque coastal town is perched on a cliff overlooking the Adriatic Sea. It's famous for its stunning beaches, crystal-clear waters, and charming historic center. \n \n6. Salento: This southernmost part of Apulia is known for its beautiful beaches and crystal-clear waters. It's a great place to relax and unwind, with plenty of opportunities for swimming, snorkeling, and sunbathing."
         },
         {
+          "name": "Calabria",
+          "slug": "calabria",
+          "image": "calabria.jpg",
+          "description":
+          ""
+        },
+        {
           "name": "Campania",
           "slug": "campania",
           "image": "positano.jpg",
