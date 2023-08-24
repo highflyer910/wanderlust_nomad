@@ -75,12 +75,12 @@
 
 @media (min-width: 769px) {
     .experiences .cards {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 20px;
-      justify-items: center;
-      text-align: center;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 20px;
+        justify-items: center;
+        text-align: center;
     }
-  }
-  
+}
+
 </style>
