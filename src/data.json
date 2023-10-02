@@ -368,6 +368,13 @@
         "Out of all the amazing destinations in Asia, Thailand and Nepal were always at the top of my list. But when it came down to making a decision, first I'll go to Thailand for one simple reason - scuba diving! Though there are so many incredible places to see and things to do in Thailand. \n1. Bangkok - Thailand's capital city is a vibrant hub of culture and history, with ancient temples and modern skyscrapers coexisting side by side. Don't miss the stunning Grand Palace and Wat Phra Kaew (Temple of the Emerald Buddha) or the bustling markets and street food stalls. \n2. Chiang Mai - Located in northern Thailand, Chiang Mai is known for its beautiful temples, lush mountains, and rich cultural heritage. Visit the ancient city walls and moat, explore the night markets, and take a cooking class to learn how to make traditional Thai dishes. \n3. Ayutthaya - This ancient city was once the capital of Thailand and is now a UNESCO World Heritage site. Explore the ruins of ancient temples and palaces and learn about the rich history of the region. \n4. Koh Samui - This tropical island paradise is known for its stunning beaches, crystal clear waters, and lush rainforests. Relax on the beach, go snorkeling or diving, or take a hike through the jungle. \n5. Sukhothai - Another ancient capital of Thailand, Sukhothai is home to some of the country's most impressive ruins and temples. Visit the historic park to see the ancient city walls, temples, and Buddha statues. \n6. Chiang Rai - Located in the far north of Thailand, Chiang Rai is known for its stunning scenery, including the famous White Temple (Wat Rong Khun) and the Golden Triangle where Thailand, Laos, and Myanmar meet. \n7. Krabi - This coastal province is home to some of Thailand's most picturesque beaches and islands, including Railay Beach and Koh Phi Phi. Take a boat tour to explore the stunning limestone cliffs and crystal clear waters.",
         "experiences": [
           {
+            "name": "Bangkok",
+            "slug": "bangkok",
+            "image": "bangkok.jpg",
+            "description":
+            "With a rich cultural heritage and a bustling modern metropolis, Bangkok is a must-visit destination for anyone interested in Asia."
+          },
+          {
             "name": "Chiang Mai",
             "slug": "chiang-mai",
             "image": "chiang-mai.jpg",

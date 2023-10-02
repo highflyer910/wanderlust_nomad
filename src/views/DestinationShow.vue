@@ -28,7 +28,7 @@
                 <p>{{ destination.description }}</p>
             </div>
             <div class="destination-url">
-                <a :href="`${destination.url}`" target="_blank">More info</a>
+                <a :href="`${destination.url}`" target="_blank" rel="noreferrer">More info</a>
             </div>
         </section>
         <section class="experiences">
