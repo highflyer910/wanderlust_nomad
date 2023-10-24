@@ -30,7 +30,6 @@ a:visited {
 h1, h2{
   text-align: left;
   font-family: 'Grandstander', cursive;
-  font-size: 1.5em;
   margin-block-end: 10px;
 }
 
@@ -38,6 +37,10 @@ h1{
   font-size: 2.5rem;
   margin-block-start: 100px;
   line-height: 1.1;
+}
+
+h2{
+  font-size: 1.5rem;
 }
 
 /* About */
@@ -58,9 +61,14 @@ h1{
 .about .destinations {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 0 10px;
+  box-sizing: border-box; 
 }
 
 @media (max-width: 768px) {
+
   .about .destinations {
       grid-template-columns: repeat(1, 1fr);
   }
@@ -69,6 +77,19 @@ h1{
     display: block;
     width: 100%;
     margin: 0 auto;
+  }
+}
+
+@media (max-width: 820px) {
+  .about .destinations {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .about .destinations img {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 700px;
   }
 }
 

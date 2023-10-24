@@ -103,6 +103,8 @@
 
     #nav {
         padding: 0.5rem;
+        display: flex;
+        align-items: center;
     }
 
     .nav-links li {

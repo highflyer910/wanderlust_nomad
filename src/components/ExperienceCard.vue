@@ -24,4 +24,14 @@ export default {
   .card_image:hover{
     transform: scale(1.05);
   }
+
+  @media screen and (max-width: 820px) {
+    .card-image{
+      width: 100%;
+      max-width: 700px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: center;
+    }
+  }
 </style>

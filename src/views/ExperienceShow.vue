@@ -31,7 +31,7 @@ export default {
 </template>
 
 <style scoped>
-@media (max-width: 768px) {
+@media (max-width: 820px) {
     .experience-show{
         display: block;
         text-align: center;
@@ -39,7 +39,8 @@ export default {
 
     h2{
         text-align: center;
-        margin-block: 40px;
+        margin-block: 30px;
+        font-size: 1.2rem;
     }
 }
 </style>

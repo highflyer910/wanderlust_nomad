@@ -27,7 +27,7 @@ export default {
 </template>
 
 <style scoped>
-    @media (max-width: 768px) {
+    @media (max-width: 820px) {
         .about h1, h2{
             text-align: center;
         }

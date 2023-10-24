@@ -50,7 +50,7 @@
 </template>
 
 <style scoped>
-@media (max-width: 768px) {
+@media (max-width: 820px) {
     .destination-details {
         margin-top: 50px;
         margin-bottom: 30px;
@@ -63,7 +63,9 @@
         margin-bottom: 20px;
     }
     .experiences h2 {
-        text-align: center;
+        text-align: left;
+        font-size: 1.2rem;
+        margin-block: 20px;
     }
     .experiences .cards {
         display: flex;
@@ -71,6 +73,7 @@
         justify-content: center;   
         text-align: center;
     }
+    
 }
 
 @media (min-width: 769px) {
