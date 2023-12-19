@@ -337,6 +337,13 @@
             "image": "santiago.jpg",
             "description":
             "The Camino de Santiago, or the Way of St. James, is a network of pilgrim routes leading to the shrine of the apostle Saint James the Great in the cathedral of Santiago de Compostela in Galicia in northwestern Spain. \n \nHere are some reasons why many travelers find it worthwhile to walk the Camino de Santiago: \n \n1. Spiritual Journey: Pilgrims seek self-discovery and a closer connection to their faith. \n \n2. Historical Exploration: Rich in history, with ancient monuments and cultural landmarks. \n \n3. Svenic Beauty: Diverse landscapes, picturesque villages, and natural beauty. \n \n4. Camaraderia and Community: Shared experience fosters a sense of camaraderie among pilgrims. \n \n5. Physicsl Challenge: Demanding yet rewarding, offering a sense of accomplishment. \n \n6. Culinary Delights: Passing through regions with unique and delightful cuisines. \n \n7. Traditions and Rituals: Completion rituals, like receiving the compostela, add cultural depth. \n \n The Camino provides a transformative journey, combining physical activity, cultural exploration, and spiritual reflection. Many find it a memorable and enriching experience."
+          },
+          {
+            "name": "Il Caminito del Rey",
+            "slug": "rey",
+            "image": "rey.jpg",
+            "description":
+            ""
           }
 
         ]
