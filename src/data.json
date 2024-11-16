@@ -193,6 +193,12 @@
             "image": "marakech.jpg",
             "description":
             "Marrakech is a vibrant city that can leave you spellbound with its stunning architecture, bustling markets, and vibrant culture. Known as the 'Red City' for its sandstone buildings, Marrakech is a must-visit destination when in Morocco. \nSome of the top sights to see in Marrakech: \n \n1. Djemaa el Fna: This bustling square is the heart of the city and a UNESCO World Heritage Site. Best time to visit it is in the evening to see the square come alive with musicians, snake charmers, and food vendors. \n \n2. Bahia Palace: This stunning palace was built in the 19th century and features beautiful gardens and intricate tilework. \n \n3. Saadian Tombs: These tombs date back to the 16th century and were rediscovered in the early 20th century. They feature beautiful decoration and are a must-visit for history buffs. \n \n4. Koutoubia Mosque: This beautiful mosque is one of the most iconic landmarks in Marrakech, with its tall minaret visible from all over the city. \n \n5. Majorelle Garden: This beautiful garden was created by French painter Jacques Majorelle in the 1920s and features exotic plants, vibrant colors, and beautiful water features. \n \n6. Souks: Marrakech is famous for its markets, or souks, which offer everything from spices to textiles to ceramics. Be prepared to haggle for the best price! \n \nNo trip to Marrakech would be complete without indulging in the city's delicious cuisine, which features spices, herbs, and influences from across the Middle East and North Africa. Don't miss out on dishes like tagine, couscous, and harira soup. \nIt's obvious Marrakech is a city that will leave you with lasting memories and a desire to return again and again."
+          },
+          {
+            "name": "Ouarzazate",
+            "slug": "ouarzazate",
+            "image": "ouarzazate.jpg",
+            "description":"Ouarzazate, often called the 'Gateway to the Sahara,' is a captivating city in southern Morocco with a unique blend of natural beauty, history, and culture. Here is why it is worth visiting: \n \n1. "
           }
         ]
       },
@@ -261,6 +267,13 @@
             "image": "madeira.jpg",
             "description":
               "Madeira is a stunning island located off the coast of Portugal, and it's a must-visit for travelers who love nature and breathtaking views. I started to research about this place after I watched a short video in Tik Tok:) Here are some spots to visit there: \n \n- Pico do Arieiro: This is the third-highest peak on the island, and it offers breathtaking views of the surrounding landscape. People can drive up to the peak or take a hiking trail to reach the top. \n \n- Levada Walks: The island is famous for its Levada walks, which are hiking trails that follow the water channels that distribute water from the mountainous areas to the farmland. These walks offer spectacular views of the island's forests, waterfalls, and cliffs. \n \n- Funchal: This charming city is the capital of Madeira Island and is known for its picturesque streets, colorful houses, and stunning views of the Atlantic Ocean. Be sure to visit the Mercado dos Lavradores, a famous market where you can find fresh fruits, vegetables, and fish. \n \n- Monte Palace Tropical Garden: This is a beautiful garden located in Funchal, and it features exotic plants, lakes, and sculptures. You can also visit the Monte Palace Museum, which houses an impressive collection of African, Indo-Portuguese, and Oriental art. \n \n- Cabo Girao: This is the second-highest sea cliff in the world, and it offers panoramic views of the Atlantic Ocean. You can walk on a glass-bottomed platform that extends over the cliff's edge and take in the stunning views."
+          },
+          {
+            "name": "Cabo da Roca",
+            "slug": "cabo-da-roca",
+            "image": "cabo-da-roca.jpg",
+            "description":
+            "Cabo da Roca, the westernmost point of continental Europe, and of the Eurasian landmass is a stunning destination in Portugal. Here’s why it’s worth a visit: \n \n1. Breathtaking Views: Panoramic views of rugged cliffs and the Atlantic Ocean. \n \n2. Geographical Significance: Known as the 'edge of Europe,' it holds historical and geographical significance. \n \n3. Natural Beauty: Dramatic cliffs, windswept landscapes, and rich coastal flora. \n \n4. Historical Landmark: Features a lighthouse and a stone monument with a poetic inscription. \n \n5. Certificate of Visit: Visitors can purchase a certificate as a keepsake of reaching Europe's westernmost point. \n \n Cabo da Roca is a must-visit for its natural beauty, symbolic importance, and tranquil setting, making it ideal for both nature lovers and explorers."
           }
         ]
       },
@@ -341,9 +354,9 @@
           {
             "name": "Il Caminito del Rey",
             "slug": "rey",
-            "image": "rey.jpg",
+            "image": "caminito-del-rey.jpg",
             "description":
-            ""
+            "El Caminito del Rey, located in the province of Málaga in Andalusia, Spain, is a renowned and thrilling walkway pinned along the steep walls of a narrow gorge, El Desfiladero de los Gaitanes. \n \nHere's why it's worth exploring. \n \n1. Spectacular Setting: Offers breathtaking views of a narrow gorge and surrounding natural beauty. \n \n2. Historical Significance: Originally built for a hydroelectric power plant maintenance, now restored for public use. \n \n3. Thrilling Experience: Features narrow pathways and hanging footbridges for adventure seekers. \n \n4. Accessibility: A short 2-3 hour hike attracts diverse visitors. \n \n5. Natural Surroundings: Surrounded by limestone walls, river gorge, and diverse flora and fauna. \n \n6. Restoration Efforts: Extensive work ensures safety while preserving original charm.  \n \n7. Cultural Experience: Blend of natural wonders and human engineering offers unique insights."
           }
 
         ]
@@ -409,6 +422,12 @@
             "image": "ko-tao.jpg",
             "description":
             "Koh Tao is a beautiful island located in the Gulf of Thailand that is world-renowned for its stunning beaches and world-class scuba diving. The island is a diver's paradise, with crystal clear waters, diverse marine life, and a range of dive sites suitable for all levels of experience. \n \nScuba diving in Koh Tao is an experience like no other. The island's warm waters are home to an incredible array of marine life, including colorful corals, schools of fish, sea turtles, and even whale sharks. There are many dive schools and centers on the island that offer courses and guided dives for beginners and experienced divers alike. \n \nFor those looking to get certified, Koh Tao is one of the best places in the world to learn how to scuba dive. The island's calm waters and mild currents make it an ideal training ground, and the many dive schools offer a range of courses, from beginner level to advanced. \n \nAs someone who loves nature and is adventurous, scuba diving in Koh Tao is definitely on my to-do list in life. The opportunity to explore the underwater world and discover new and exciting marine creatures is something that I simply can't resist. And with Koh Tao's stunning scenery, warm waters, and laid-back atmosphere, I know that it will be an experience I'll never forget."
+          },
+          {
+            "name": "Khao Sok National Park",
+            "slug": "khao-sok-national-park",
+            "image": "kaosok.jpg",
+            "description":"Khao Sok National Park, located in southern Thailand, is one of the most stunning and diverse natural destinations in Southeast Asia. Here's why it's worth visiting: \n \n1: The park boasts one of the oldest rainforests in the world, home to countless species of plants, animals, and birds, including gibbons, hornbills, and even the rare Rafflesia flower. \n2. This emerald-green lake, surrounded by towering limestone cliffs and dense forests, offers breathtaking scenery and opportunities for kayaking, swimming, and exploring floating bungalows. \n3. From jungle trekking to caving and river tubing, the park offers plenty of adventurous options for thrill-seekers and nature enthusiasts alike. \n4. Staying overnight on Cheow Lan Lake in a floating bungalow is a unique and tranquil experience, allowing you to wake up to the sounds of nature. \n5. Visitors have the chance to spot exotic wildlife, such as elephants, leopards, and exotic bird species, in their natural habitat. \n6. The park is relatively easy to reach, and many tours cater to different fitness levels, making it enjoyable for families and casual travelers. \n7. Visiting nearby villages allows travelers to learn about the culture of local communities and their connection to the park’s ecosystem. \n8. The lush environment and sounds of the jungle provide a peaceful retreat, perfect for disconnecting and recharging. \n \n  Khao Sok National Park offers an unforgettable mix of adventure, natural beauty, and relaxation, making it a must-visit for anyone exploring Thailand."
           }
         ]
       },

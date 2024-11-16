@@ -19,7 +19,7 @@
         </div>
     </div>
     <div class="footer">
-        <p>Made by <a href="https://github.com/highflyer910/wanderlust_nomad" target="_blank">Thea</a> &copy; 2023</p>
+        <p>Made by <a href="https://github.com/highflyer910/wanderlust_nomad" target="_blank">Thea</a> &copy; 2024</p>
     </div>
 </template>
 
