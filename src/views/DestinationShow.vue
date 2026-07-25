@@ -19,8 +19,8 @@
 
 
 <template>
-    <div>
-        <section v-if="destination" class="destination fade-nested">
+    <div v-if="destination">
+        <section class="destination fade-nested">
             <h1>{{ destination.name }}</h1>
             <GoBack />
             <div class="destination-details">
