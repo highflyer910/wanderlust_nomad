@@ -62,13 +62,37 @@
     </router-link>
 
         </div>
-        <ul class="nav-links">
-            <li><router-link to="/">Home</router-link></li>
-            <li><router-link to="/about">My Destinations</router-link></li>
-        </ul>
+        <div class="nav-right">
+            <ul class="nav-links">
+                <li><router-link to="/">Home</router-link></li>
+                <li><router-link to="/about">Destinations</router-link></li>
+                <li><router-link to="/map">Map</router-link></li>
+            </ul>
+            <button
+                class="theme-toggle"
+                type="button"
+                :aria-label="theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode'"
+                :title="theme === 'dark' ? 'Light mode' : 'Dark mode'"
+                @click="toggle"
+            >
+                {{ theme === 'dark' ? '☀️' : '🌙' }}
+            </button>
+        </div>
     </div>
-    
+
 </template>
+
+<script>
+import { useTheme } from '@/composables/useTheme'
+
+export default {
+    name: 'TheNavigation',
+    setup() {
+        const { theme, toggle } = useTheme()
+        return { theme, toggle }
+    }
+}
+</script>
 
 <style lang="css">
 .logo svg{

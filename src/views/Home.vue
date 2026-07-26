@@ -19,9 +19,19 @@
         </div>
     </div>
     <div class="footer">
-        <p>Made by <a href="https://github.com/highflyer910/wanderlust_nomad" target="_blank">Thea</a> &copy; 2024</p>
+        <p>Made by <a href="https://github.com/highflyer910/wanderlust_nomad" target="_blank">Thea</a> &copy; 2026</p>
     </div>
 </template>
+
+<script setup>
+import { usePageMeta } from '@/composables/usePageMeta'
+
+usePageMeta({
+  title: '',
+  description:
+    'Wanderlust Nomad — a personal travel blog capturing dream destinations around the world, with an interactive map and travel inspiration.'
+})
+</script>
 
 <style scoped>
 .home {

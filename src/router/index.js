@@ -7,6 +7,7 @@ import sourceData from '@/data.json'
 const routes = [
     { path: '/', name: 'Home', component: Home},
     { path: '/about', name: 'About', component: About },
+    { path: '/map', name: 'Map', component: ()=> import('@/views/MapView.vue') },
     { path: '/destination/:id/:slug', name: 'destination.show', 
     component: ()=> import('@/views/DestinationShow.vue'), 
     props: route => ({...route.params, id: parseInt(route.params.id)}), 
@@ -45,7 +46,11 @@ const router = createRouter({
     history: createWebHistory(),
     routes,
     scrollBehavior(to, from, savedPosition){
-        return savedPosition || { top: 0, behavior: 'smooth' }
+        if (savedPosition) return savedPosition
+        // Opening an experience scrolls to its text from within the component
+        // (ExperienceShow), since the lazy view isn't mounted yet here.
+        if (to.name === 'experience.show') return false
+        return { top: 0, behavior: 'smooth' }
     }
 })
 

@@ -1,20 +1,22 @@
-<script>
+<script setup>
+    import { computed } from 'vue'
     import sourceData from '@/data.json'
     import ExperienceCard from '@/components/ExperienceCard.vue'
     import GoBack from '@/components/GoBack.vue'
-    export default {
-        components: {ExperienceCard, GoBack},
-        props: {
-            id: {type: Number, required: true}
-        },
-        computed: {
-            destination() {
-                return sourceData.destinations.find(
-                    destination => destination.id === this.id
-                )
-            }
-        }
-    }
+    import { usePageMeta } from '@/composables/usePageMeta'
+
+    const props = defineProps({
+        id: { type: Number, required: true }
+    })
+
+    const destination = computed(() =>
+        sourceData.destinations.find((d) => d.id === props.id)
+    )
+
+    usePageMeta(() => ({
+        title: destination.value?.name,
+        description: destination.value?.description?.slice(0, 155)
+    }))
 </script>
 
 
@@ -24,7 +26,7 @@
             <h1>{{ destination.name }}</h1>
             <GoBack />
             <div class="destination-details">
-                <img :src="`/images/${destination.image}`" :alt="destination.name">
+                <img :src="`/images/${destination.image}`" :alt="destination.name" loading="lazy">
                 <p>{{ destination.description }}</p>
             </div>
             <div class="destination-url">
